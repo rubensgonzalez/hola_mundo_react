@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+![Inove banner](./inove.jpg)
+Inove Escuela de Código\
+info@inove.com.ar\
+Web: [Inove](http://inove.com.ar)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hello world React! [JavaScript]
+En este repositorio encontrarás un ejemplo de aplicación creada con React JS.
 
-## Available Scripts
 
-In the project directory, you can run:
+# Primeros pasos con Create React App.
 
-### `npm start`
+Este proyecto fue iniciado con [Create React App](https://github.com/facebook/create-react-app).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Ejecución: Comandos disponibles
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Todos los comandos deben realizarse en la raíz del proyecto, a nivel del archivo package.json.
 
-### `npm test`
+## Instalación de librerías.
+#### `npm install`
+Instala las librerías requeridas por el proyecto, establecidas por el archivo "package.json"
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Inicialización del servidor local.
+#### `npm start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Corre el proyecto en modo de desarrollo.
+Abra [http://localhost:3000](http://localhost:3000) en su navegador para ver el proyecto.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Cada vez que introduzca un cambio en el proyecto, el servidor de prueba se reiniciará automaticamente.
+Así mismo, verá cualquier error presente en el código en la consola del navegador.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Creación de un nuevo proyecto
 
-### `npm run eject`
+#### `npx create-react-app [nombre_de_la_app]`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Este comando es para crear un nuevo proyecto desde cero, a partir de un template.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Consultas
+alumnos@inove.com.ar

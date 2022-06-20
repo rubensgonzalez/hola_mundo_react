@@ -10,7 +10,7 @@ function App() {
   };
 
   const newStar = arrayOfStars.map((star) => {
-    const size = getRandom() * 3 + "px";
+    const size = getRandom() * 5 + "px";
     const styles = {
       top: getRandom() * 100 + "%",
       left: getRandom() * 100 + "%",
@@ -20,6 +20,7 @@ function App() {
       MozAnimationDelay: getRandom() + "s",
       WebkitAnimationDuration: getRandom() + 1 + "s",
       MozAnimationDuration: getRandom() + 1 + "s",
+      filter: "blur(" + getRandom() * 3 + "px)",
     };
     return <figure key={star} className="star" style={styles}></figure>;
   });

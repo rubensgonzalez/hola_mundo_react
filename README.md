@@ -1,7 +1,6 @@
 ![Inove banner](./inove.jpg)
 Inove Escuela de Código\
-info@inove.com.ar\
-Web: [Inove](http://inove.com.ar)
+Web: [Inove](http://inovecode.com)
 
 # Hello world React! [JavaScript]
 En este repositorio encontrarás un ejemplo de aplicación creada con React JS.
@@ -36,4 +35,4 @@ Así mismo, verá cualquier error presente en el código en la consola del naveg
 Este comando es para crear un nuevo proyecto desde cero, a partir de un template.
 
 # Consultas
-alumnos@inove.com.ar
+alumnos@inovecode.com

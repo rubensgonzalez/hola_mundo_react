@@ -1,8 +1,3 @@
-![Inove banner](./inove.jpg)
-Inove Escuela de Código\
-info@inove.com.ar\
-Web: [Inove](http://inove.com.ar)
-
 # Ejercicios de práctica
 ## Importante
 Todas las entregas deben realizarse en el foro de tarea correspondiente en el campus de inove, salvo especificarse lo contrario. 
@@ -30,12 +25,4 @@ Una vez instaladas, debe inicializar el servidor de desarrollo con el comando:
 
 `npm start`
 
-Y verificar en [http://localhost:3000](http://localhost:3000) que el proyecto se está ejecutando, envíe una captura de pantalla del mismo a su servidor de Discord.
-
-
-
-, inicialícelo y vea en el navegador el mensaje de bienvenida de React JS.
-A continuación, genere un componente dentro de este nuevo proyecto y trate de trasplantar el código de este proyecto:  
-
-🔗 [codepen example](https://codepen.io/inovealumnos/pen/GRQLapZ)
-
+Y verificar en [http://localhost:3000](http://localhost:3000) que el proyecto se está ejecutando correctamente.

@@ -1,16 +1,11 @@
-![Inove banner](./inove.jpg)
-Inove Escuela de Código\
-info@inove.com.ar\
-Web: [Inove](http://inove.com.ar)
-
 # Ejercicios de práctica
 ## Importante
 Todas las entregas deben realizarse en el foro de tarea correspondiente en el campus de inove, salvo especificarse lo contrario. 
 
-### Preparar nuestro entorno de trabajo
+## Preparar nuestro entorno de trabajo
 Para poder realizar este ejercicio debe posicionar su terminal/consola dentro de la carpeta de proyecto que creó en el ejercicio anterior.
 
-### Crear un nuevo componente
+## Crear un nuevo componente
 Dentro de la carpeta de proyecto usted creará un nuevo componente desde cero. Para eso deberá seguir los siguintes pasos:
 
 1. Crear la carpeta "components" dentro de la carpeta "src

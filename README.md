@@ -2,7 +2,7 @@
 Inove Escuela de Código\
 Web: [Inove](http://inovecode.com)
 
-# Hello world React! [JavaScript]
+# Hola Mundo! [React]
 En este repositorio encontrarás un ejemplo de aplicación creada con React JS.
 
 

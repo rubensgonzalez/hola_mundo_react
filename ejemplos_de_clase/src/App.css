@@ -1,0 +1,38 @@
+:root {
+  --main-bg-color: rgb(94, 94, 94);
+  --logo-shadow: rgb(0, 0, 0);
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  position: relative; 
+  height: 40vmin;
+  pointer-events: none;
+  filter: drop-shadow(15px 15px 10px var(--logo-shadow));
+}
+
+.App-header {
+  background: linear-gradient(20deg, #00002F 0%, #02020E 100%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;  
+}
+
+.App-link {
+  z-index: 1;
+  color: #3f7cff;
+}
+
+html {
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+
